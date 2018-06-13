@@ -1,0 +1,26 @@
+{
+  "name": "rn-bridge-inspector",
+  "version": "1.0.0",
+  "description": "Inspect React Native's bridge",
+  "main": "index.js",
+  "repository": "https://github.com/tiaanduplessis/rn-bridge-inspector",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "bridge",
+    "inspect",
+    "inspector"
+  ]
+}
